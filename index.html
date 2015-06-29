@@ -20,6 +20,14 @@
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+<p>
+<h2>select first 5 random rows</h2>
+     select * from 
+(select * from RB_WORKFLOW_STATE_T order by dbms_random.value)
+where rownum < 5
+
+</p>
+
 <article>
 <p>Launching on 18 June with WWDC keynotes. available from 19 June </p>
 <p>1. Comes with USB type-C connector.</p>
