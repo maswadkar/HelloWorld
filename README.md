@@ -18,3 +18,7 @@ https://ai.azure.com/
 ## AWS Bedrock
 
 https://console.aws.amazon.com/bedrock/home
+
+## Microsoft Learning - hands on training for Free
+
+https://learn.microsoft.com/en-us/training/
