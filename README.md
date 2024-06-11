@@ -13,6 +13,10 @@ https://pytorch.org/tutorials/beginner/basics/intro.html
 2. https://www.coursera.org/learn/generative-ai-with-llms
 
 
+## EDx
+1. https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python
+2. 
+
 ## Azure AI Studio
 https://ai.azure.com/
 
