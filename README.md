@@ -7,8 +7,8 @@ https://llama.meta.com/
 
 
 ## Coursera Courses 
-
-https://www.coursera.org/learn/generative-ai-with-llms
+1. https://www.coursera.org/learn/ai-for-everyone/
+2. https://www.coursera.org/learn/generative-ai-with-llms
 
 
 ## Azure AI Studio
